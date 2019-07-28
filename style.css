@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to right , yellow , red);
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+.container {
+    text-align: center;
+}
+
